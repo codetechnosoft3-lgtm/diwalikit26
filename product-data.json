@@ -1,82 +1,5 @@
 [
-  {
-    "id": "1",
-    "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
-    "mainimg": "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
-    "dis": "93%",
-    "total": "₹4,155",
-    "disprice": "₹299",
-    "slide": [
-      "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61stfFZduNL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61d5WlFUjUL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61ZTSJHk9EL._SL1000_.jpg"
-    ],
-    "trending": false,
-    "hotDeal": "Hot Deal",
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent Pressure Handi",
-        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
-        "buyerName": "Aditya Mehra",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Strong and durable. Very convenient for daily cooking.",
-        "buyerName": "Neha Kapoor",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very Efficient",
-        "text": "Handles pressure cooking perfectly. Saves time and energy.",
-        "buyerName": "Rohan Deshmukh",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy & Reliable",
-        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
-        "buyerName": "Ananya Sharma",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Best Buy",
-        "text": "Affordable and efficient. Works exactly as described.",
-        "buyerName": "Vivaan Rathi",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
+  
   {
     "id": "19",
     "name": "Prestige Marvel Plus 3 Burner Glass Top, GTM 03, Black, Manual Ignition",
@@ -154,6 +77,85 @@
       }
     ]
   },
+
+{
+    "id": "2",
+    "name": "Prestige Iris Plus 750 W Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar) 4 Super Ef",
+    "mainimg": "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
+    "dis": "88%",
+    "total": "₹2,998",
+    "disprice": "₹359",
+    "slide": [
+      "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/617BJXmORxL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61lJ2DxhtBL._SL1000_.jpg"
+    ],
+    "trending": false,
+    "hotDeal": "Hot Deal",
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Grinder",
+        "text": "Blends smoothly and handles tough ingredients effortlessly. Very satisfied.",
+        "buyerName": "Rohit Mehra",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Very Efficient",
+        "text": "Compact, easy to clean, and powerful. Works well for my daily needs.",
+        "buyerName": "Neha Gupta",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Powerful & Reliable",
+        "text": "Handles grinding, blending, and juicing effortlessly. Highly recommend.",
+        "buyerName": "Aarav Deshmukh",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Best Mixer Grinder",
+        "text": "Very sturdy and efficient. Works perfectly for everyday use.",
+        "buyerName": "Ishita Sharma",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Great Value",
+        "text": "Affordable and reliable. Does the job well and easy to maintain.",
+        "buyerName": "Vivaan Rathi",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+        ]
+      }
+    ]
+  },
+  
   {
     "id": "13",
     "name": "Pigeon by Stovekraft Hard Anodised Aluminium Pressure Cooker Combo - 2 L, 3 L and 5 L Induction Base Outer Lid Cooker (14414, Black)",
@@ -313,83 +315,87 @@
       }
     ]
   },
-  {
-    "id": "2",
-    "name": "Prestige Iris Plus 750 W Mixer Grinder With 4 Jars (3 Stainless Steel Jars+ 1 Juicer Jar) 4 Super Ef",
-    "mainimg": "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
-    "dis": "88%",
-    "total": "₹2,998",
-    "disprice": "₹359",
+
+{
+    "id": "1",
+    "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
+    "mainimg": "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
+    "dis": "93%",
+    "total": "₹4,155",
+    "disprice": "₹299",
     "slide": [
-      "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/617BJXmORxL._SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/61lJ2DxhtBL._SL1000_.jpg"
+      "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61stfFZduNL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61d5WlFUjUL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61ZTSJHk9EL._SL1000_.jpg"
     ],
     "trending": false,
     "hotDeal": "Hot Deal",
     "reviews": [
       {
         "rating": 5,
-        "title": "Excellent Grinder",
-        "text": "Blends smoothly and handles tough ingredients effortlessly. Very satisfied.",
-        "buyerName": "Rohit Mehra",
+        "title": "Excellent Pressure Handi",
+        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
+        "buyerName": "Aditya Mehra",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Highly Recommended",
+        "text": "Strong and durable. Very convenient for daily cooking.",
+        "buyerName": "Neha Kapoor",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very Efficient",
+        "text": "Handles pressure cooking perfectly. Saves time and energy.",
+        "buyerName": "Rohan Deshmukh",
         "verified": true,
         "location": "Pune",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Very Efficient",
-        "text": "Compact, easy to clean, and powerful. Works well for my daily needs.",
-        "buyerName": "Neha Gupta",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
         ]
       },
       {
         "rating": 5,
-        "title": "Powerful & Reliable",
-        "text": "Handles grinding, blending, and juicing effortlessly. Highly recommend.",
-        "buyerName": "Aarav Deshmukh",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Best Mixer Grinder",
-        "text": "Very sturdy and efficient. Works perfectly for everyday use.",
-        "buyerName": "Ishita Sharma",
+        "title": "Sturdy & Reliable",
+        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
+        "buyerName": "Ananya Sharma",
         "verified": true,
         "location": "Kolkata",
         "daysAgo": "2 days ago",
         "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
         ]
       },
       {
         "rating": 4,
-        "title": "Great Value",
-        "text": "Affordable and reliable. Does the job well and easy to maintain.",
+        "title": "Best Buy",
+        "text": "Affordable and efficient. Works exactly as described.",
         "buyerName": "Vivaan Rathi",
         "verified": true,
         "location": "Ahmedabad",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/51ZykaL8q6L._SL1200_.jpg"
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
         ]
       }
     ]
   },
+  
+  
   {
     "id": "25",
     "name": "Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan with Remote | 3-year warranty by Orient | White",
