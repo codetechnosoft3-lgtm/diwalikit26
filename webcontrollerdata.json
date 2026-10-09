@@ -1,0 +1,24 @@
+{
+  "loaderEnabled": false,
+  "loaderLogo": "/img/flipkart-logo.webp",
+  "thankyouLogo": "/img/flipkart-logo.webp",
+  "facebookPixelId": "840264745075715",
+  "cashfreePayment": false,
+  "phonepeMode": 1,
+  "upiOptions": [
+    {
+      "paymentName": "PhonePe",
+      "link": "phonepe://pay?pa=paytm.s31y582@pty&pn=Flash%20Sale&cu=INR",
+      "upiimg": "/img/phone.webp",
+      "enabled": true
+    },
+    {
+      "paymentName": "Paytm",
+      "link": "paytmmp://pay?pa=paytm.s31y582@pty&pn=Online%20Shopping&cu=INR",
+      "upiimg": "/img/pay.webp",
+      "enabled": true
+    }
+    
+  
+  ]
+}
