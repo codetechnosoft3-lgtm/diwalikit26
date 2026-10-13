@@ -3,17 +3,17 @@
   "name": "kitchenware Products Buy online",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favidcon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logdo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo5d12.png",
       "type": "image/png",
       "sizes": "512x512"
     }
