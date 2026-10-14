@@ -8,7 +8,7 @@
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=paytm.s31y582@pty&pn=Flash%20Sale&cu=INR",
+      "link": "phonepe://pay?pa=paytmqr5nvn21@ptys&pn=Flash%20Sale&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
