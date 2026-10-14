@@ -14,7 +14,7 @@
     },
     {
       "paymentName": "Paytm",
-      "link": "paytmmp://pay?pa=paytm.s31y582@pty&pn=Online%20Shopping&cu=INR",
+      "link": "paytmmp://pay?pa=paytmqr5nvn21@ptys&pn=Online%20Shopping&cu=INR",
       "upiimg": "/img/pay.webp",
       "enabled": true
     }
